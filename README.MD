@@ -10,12 +10,11 @@ sudo apt-get upgrade -y
 sudo snap install multipass --classic --stable
 ```
 
-## Configure VM informations in the code
+## Configure VM informations in the code (optional)
 ### Names, number of workers
 ```
 master="master"
 slaves="worker-1 worker-2"
-vms=$master" "$slaves
 ```
 
 ### Master resources
