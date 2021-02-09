@@ -27,8 +27,8 @@ master_disk=15G
 ### Worker resourses
 ```
 slaves_cpus=1
-slaves_mem="2G"
-slaves_disk="10G"
+slaves_mem=2G
+slaves_disk=10G
 ```
 
 ## Start script
